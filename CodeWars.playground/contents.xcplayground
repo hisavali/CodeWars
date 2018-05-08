@@ -17,5 +17,6 @@
         <page name='LinkedList'/>
         <page name='Amex_Example'/>
         <page name='Capgemini'/>
+        <page name='Resitor'/>
     </pages>
 </playground>
