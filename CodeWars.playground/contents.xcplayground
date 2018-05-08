@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='StringApi'/>
+        <page name='ARRAYApi'/>
+        <page name='Untitled Page'/>
+        <page name='Blubs'/>
+        <page name='dashatize'/>
+        <page name='BacktrackingBinary'/>
+        <page name='Array_2d'/>
+        <page name='StringyStrings'/>
+        <page name='DigitSums'/>
+        <page name='WhichOneIn'/>
+        <page name='AmexTest'/>
+        <page name='gcd'/>
+        <page name='SingleElementInArray'/>
+        <page name='LinkedList'/>
+        <page name='Amex_Example'/>
+        <page name='Capgemini'/>
+    </pages>
+</playground>
